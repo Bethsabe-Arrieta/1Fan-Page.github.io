@@ -1,0 +1,25 @@
+head{font-size: larger;
+background-color: black;}
+body{background-color: rgb(245, 237, 237);
+text-align: justify;}
+h1{font-variant: small-caps;
+    font-size: larger;
+    text-align: center;}
+
+h2{background-color: rgb(94, 92, 92);
+    color: rgb(252, 247, 247);
+     font-variant: small-caps;
+     letter-spacing: 3px;
+     word-spacing: 5px;
+    }
+
+    
+p{font-size:medium;
+  text-align: justify;
+  font-variant:Times News Rome;
+  margin: 2em 4em 
+}
+
+    
+.tarjeta{background-color: rgb(245, 237, 237);}
+
